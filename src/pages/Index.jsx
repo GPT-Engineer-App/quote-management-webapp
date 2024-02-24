@@ -4,7 +4,7 @@ import { FaPlus, FaEdit, FaTrash, FaSearch } from "react-icons/fa";
 
 // Mock data for quotes
 const initialQuotes = [
-  { id: 1, text: "Life is what happens when you're busy making other plans.", author: "John Lennon", categories: ["Life", "Planning"] },
+  { id: 1, text: "Make my day better please", author: "John Lennon", categories: ["Life", "Planning"] },
   { id: 2, text: "Get busy living or get busy dying.", author: "Stephen King", categories: ["Life", "Motivation"] },
   { id: 3, text: "The only impossible journey is the one you never begin.", author: "Tony Robbins", categories: ["Success", "Journey"] },
 ];
