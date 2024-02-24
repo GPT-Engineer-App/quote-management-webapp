@@ -69,7 +69,7 @@ const Index = () => {
   return (
     <Container maxW="container.md" py={10}>
       <VStack spacing={8}>
-        <Heading>Quote Manager</Heading>
+        <Heading>Quote Buddy</Heading>
         <Flex>
           <Input placeholder="Search for quotes" value={searchTerm} onChange={handleSearchChange} />
           <Button leftIcon={<FaSearch />} onClick={() => {}} ml={2}>
