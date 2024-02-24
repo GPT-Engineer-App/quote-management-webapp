@@ -109,7 +109,7 @@ const Index = () => {
                 Edit
               </Button>
               <Button leftIcon={<FaTrash />} size="sm" onClick={() => handleDeleteQuote(quote.id)} mt={2} ml={2}>
-                Delete
+                Remove
               </Button>
             </Box>
           ))}
